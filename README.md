@@ -27,7 +27,7 @@ python fourier_stems.py --waveform triangle --f0 110 --duration 6 --sr 48000
 | `--duration 6` | Duración total del audio generado (en segundos). |
 | `--sr 48000` | Frecuencia de muestreo (samples por segundo). Un estándar en audio digital profesional. |
 
-El script genera varios ficheros `.wav` correspondientes a los primeros armónicos, así como una mezcla parcial que se aproxima a la onda **triangular**.  
+El script genera 8 ficheros `.wav` correspondientes a los primeros armónicos y sus representaciones gráficas como funciones del tiempo, así como una mezcla parcial que se aproxima a la onda **triangular**.  
 
 Puedes importar estos stems en **Traktor**, **Ableton** o cualquier DAW para escuchar cómo la suma de armónicos reconstruye la señal original.
 
