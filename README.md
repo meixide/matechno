@@ -2,7 +2,7 @@
 
 📍 **Fundación Telefónica**, Madrid  
 📅 **26 de septiembre de 2025**  
-🎙️ **Carlos García Meixide (ICMAT-CSIC)**  
+🎙️ **Carlos García Meixide (ICMAT-CSIC)** -- carlos.garcia@icmat.es
 
 Este repositorio contiene el material de la charla divulgativa **"Las matemáticas de la música electrónica"**, un evento interactivo que exploró la conexión entre las matemáticas y la música techno.
 
